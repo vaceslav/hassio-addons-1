@@ -23,6 +23,7 @@ RUN \
         mosquitto-clients \
         nano \
         openssh \
+        rsync \
         pwgen \
         tmux \
         vim \
