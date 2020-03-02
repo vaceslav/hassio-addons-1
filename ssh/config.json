@@ -1,5 +1,5 @@
 {
-  "name": "Terminal & SSH",
+  "name": "Slava Terminal & SSH",
   "version": "8.5.1",
   "slug": "ssh",
   "description": "Allow logging in remotely to Home Assistant using SSH",
